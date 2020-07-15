@@ -19,7 +19,8 @@ Algorithm should be updated every season because overlord and official FPL don't
 some players are then double named, so combining players_raw and players_with_id probably wouldn't work next season. 
 
 ***If you are using this code outside of season, there is folder gw-29 made with data fetched before gameweek 29, so you can check or tweak algorithm without having to worry about seasonal changes.***
-##Dependencies
+
+## Dependencies
 
 python 3
 
