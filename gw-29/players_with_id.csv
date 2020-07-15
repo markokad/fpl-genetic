@@ -1,0 +1,627 @@
+,name,last_name,first_name,Team,Average,Price,Pos,id
+0,Bernd Leno,Leno,Bernd,ARS,4.0,5.0,G,14
+1,Emiliano Martinez,Martinez,Emiliano,ARS,0.0,4.3,G,427
+2,Orjan Nyland,Nyland,Orjan,AVL,0.1,4.3,G,27
+3,Tom Heaton,Heaton,Tom,AVL,1.5,4.3,G,94
+4,Jed Steer,Steer,Jed,AVL,0.0,4.3,G,429
+5,Lovre Kalinic,Kalinic,Lovre,AVL,0.0,4.3,G,474
+6,Jose Reina,Reina,Jose,AVL,0.3,4.5,G,603
+7,Asmir Begovic,Begovic,Asmir,BOU,0.0,4.2,G,72
+8,Artur Boruc,Boruc,Artur,BOU,0.0,4.3,G,73
+9,Mark Travers,Travers,Mark,BOU,0.0,4.2,G,74
+10,Aaron Ramsdale,Ramsdale,Aaron,BOU,3.6,4.6,G,494
+11,Mathew Ryan,Ryan,Mathew,BHA,3.0,4.8,G,47
+12,David Button,Button,David,BHA,0.0,3.9,G,48
+13,Nick Pope,Pope,Nick,BUR,5.2,4.8,G,93
+14,Joe Hart,Hart,Joe,BUR,0.0,4.2,G,95
+15,Bailey Peacock-Farrell,Peacock-Farrell,Bailey,BUR,0.0,4.3,G,495
+16,Kepa,Kepa,,CHE,2.3,5.4,G,111
+17,Willy Caballero,Caballero,Willy,CHE,0.1,4.8,G,112
+18,Vicente Guaita,Guaita,Vicente,CRY,4.6,5.1,G,131
+19,Wayne Hennessey,Hennessey,Wayne,CRY,0.1,4.2,G,132
+20,Stephen Henderson,Henderson,Stephen,CRY,0.0,4.0,G,556
+21,Jordan Pickford,Pickford,Jordan,EVE,2.5,5.3,G,148
+22,Maarten Stekelenburg,Stekelenburg,Maarten,EVE,0.0,4.0,G,149
+23,Jonas Lossl,Lossl,Jonas,EVE,0.0,4.3,G,479
+24,Virginia,Virginia,,EVE,0.0,4.0,G,0
+25,Kasper Schmeichel,Schmeichel,Kasper,LEI,4.0,5.3,G,168
+26,Eldin Jakupovic,Jakupovic,Eldin,LEI,0.0,4.2,G,169
+27,Danny Ward,Ward,Danny,LEI,0.0,4.2,G,170
+28,Alisson,Alisson,,LIV,5.2,6.2,G,189
+29,Simon Mignolet,Mignolet,Simon,LIV,0.0,4.5,G,190
+30,Adrian,Adrian,,LIV,0.4,4.0,G,526
+31,Andy Lonergan,Lonergan,Andy,LIV,0.0,4.2,G,530
+32,Caoimhin Kelleher,Kelleher,Caoimhin,LIV,0.0,4.4,G,531
+33,Ederson,Ederson,,MCI,3.3,6.0,G,212
+34,Claudio Bravo,Bravo,Claudio,MCI,0.2,4.7,G,213
+35,Scott Carson,Carson,Scott,MCI,0.0,4.0,G,562
+36,David de Gea,de Gea,David,MUN,3.1,5.4,G,235
+37,Sergio Romero,Romero,Sergio,MUN,0.0,4.7,G,236
+38,Lee Grant,Grant,Lee,MUN,0.0,4.8,G,237
+39,Martin Dubravka,Dubravka,Martin,NEW,3.7,5.0,G,262
+40,Karl Darlow,Darlow,Karl,NEW,0.0,4.3,G,263
+41,Frederick Woodman,Woodman,Frederick,NEW,0.0,4.0,G,264
+42,Robert Elliot,Elliot,Robert,NEW,0.0,4.0,G,573
+43,Tim Krul,Krul,Tim,NOR,2.9,4.5,G,280
+44,Michael McGovern,McGovern,Michael,NOR,0.2,4.0,G,281
+45,Ralf Fahrmann,Fahrmann,Ralf,NOR,0.0,4.4,G,449
+46,Archie Mair,Mair,Archie,NOR,0.0,4.0,G,551
+47,Jake Eastwood,Eastwood,Jake,SHU,0.0,4.3,G,299
+48,Simon Moore,Moore,Simon,SHU,0.0,4.3,G,436
+49,Dean Henderson,Henderson,Dean,SHU,4.6,5.2,G,471
+50,Michael Verrips,Verrips,Michael,SHU,0.0,4.4,G,521
+51,Fraser Forster,Forster,Fraser,SOU,0.0,4.3,G,317
+52,Alex McCarthy,McCarthy,Alex,SOU,2.7,4.5,G,318
+53,Angus Gunn,Gunn,Angus,SOU,0.5,4.2,G,319
+54,Harry Lewis,Lewis,Harry,SOU,0.0,4.0,G,548
+55,Hugo Lloris,Lloris,Hugo,TOT,1.0,5.3,G,340
+56,Paulo Gazzaniga,Gazzaniga,Paulo,TOT,3.2,4.2,G,341
+57,Alfie Whiteman,Whiteman,Alfie,TOT,0.0,4.0,G,543
+58,Michel Vorm,Vorm,Michel,TOT,0.0,4.3,G,555
+59,Brandon Austin,Austin,Brandon,TOT,0.0,4.0,G,558
+60,Ben Foster,Foster,Ben,WAT,4.2,4.9,G,366
+61,Pontus Dahlberg,Dahlberg,Pontus,WAT,0.0,4.3,G,367
+62,Heurelho da Silva Gomes,Gomes,Heurelho da Silva,WAT,0.0,4.4,G,513
+63,Lukasz Fabianski,Fabianski,Lukasz,WHU,4.1,4.9,G,388
+64,Roberto,Roberto,,WHU,0.0,4.4,G,450
+65,David Martin,Martin,David,WHU,0.4,4.0,G,553
+66,Joseph Anang,Anang,Joseph,WHU,0.0,4.0,G,582
+67,Darren Randolph,Randolph,Darren,WHU,0.1,4.1,G,606
+68,Patricio,Patricio,,WOL,4.3,5.1,G,411
+69,John Ruddy,Ruddy,John,WOL,0.0,4.3,G,412
+70,Will Norris,Norris,Will,WOL,0.0,3.9,G,413
+71,Shkodran Mustafi,Mustafi,Shkodran,ARS,0.4,5.1,D,1
+72,Hector Bellerin,Bellerin,Hector,ARS,0.4,5.4,D,2
+73,Sead Kolasinac,Kolasinac,Sead,ARS,0.6,5.2,D,3
+74,Ainsley Maitland-Niles,Maitland-Niles,Ainsley,ARS,2.5,4.5,D,4
+75,Sokratis,Sokratis,,ARS,2.9,4.8,D,5
+76,Nacho Monreal,Monreal,Nacho,ARS,0.0,5.0,D,6
+77,Laurent Koscielny,Koscielny,Laurent,ARS,0.0,5.0,D,7
+78,Konstantinos Mavropanos,Mavropanos,Konstantinos,ARS,0.0,4.4,D,8
+79,Carl Jenkinson,Jenkinson,Carl,ARS,0.0,4.5,D,9
+80,Rob Holding,Holding,Rob,ARS,0.0,4.5,D,10
+81,David Luiz,David Luiz,,ARS,3.0,5.7,D,106
+82,Calum Chambers,Chambers,Calum,ARS,0.0,4.3,D,467
+83,Cedric,Cedric,,ARS,2.1,4.8,D,486
+84,Kieran Tierney,Tierney,Kieran,ARS,0.1,5.3,D,515
+85,Pablo Mari,Mari,Pablo,ARS,0.0,4.8,D,617
+86,Ahmed El Mohamady,El Mohamady,Ahmed,AVL,0.4,4.2,D,22
+87,James Chester,Chester,James,AVL,0.0,4.3,D,23
+88,Neil Taylor,Taylor,Neil,AVL,0.3,4.3,D,24
+89,Kortney Hause,Hause,Kortney,AVL,0.3,4.4,D,25
+90,Matt Targett,Targett,Matt,AVL,2.8,4.4,D,309
+91,Tyrone Mings,Mings,Tyrone,AVL,2.0,4.5,D,445
+92,Konsa,Konsa,,AVL,0.6,4.3,D,452
+93,Bjorn Engels,Engels,Bjorn,AVL,2.1,4.4,D,455
+94,Frederic Guilbert,Guilbert,Frederic,AVL,1.6,4.4,D,458
+95,Steve Cook,Steve Cook,,BOU,1.7,5.0,D,58
+96,Nathan Ake,Ake,Nathan,BOU,2.9,4.8,D,59
+97,Charlie Daniels,Daniels,Charlie,BOU,0.0,4.2,D,60
+98,Chris Mepham,Mepham,Chris,BOU,0.3,4.3,D,61
+99,Simon Francis,Francis,Simon,BOU,0.3,4.4,D,62
+100,Adam Smith,Adam Smith,,BOU,1.8,4.3,D,63
+101,Lloyd Kelly,Kelly,Lloyd,BOU,0.0,4.4,D,64
+102,Diego Rico,Rico,Diego,BOU,2.7,4.2,D,65
+103,Jack Simpson,Simpson,Jack,BOU,0.1,4.0,D,66
+104,Jack Stacey,Stacey,Jack,BOU,0.6,4.3,D,446
+105,Shane Duffy,Duffy,Shane,BHA,0.7,4.8,D,37
+106,Martin Montoya,Montoya,Martin,BHA,1.9,4.4,D,38
+107,Fernandes da Silva Junior Bernardo,Bernardo,Fernandes da Silva Junior,BHA,0.3,4.3,D,39
+108,Leon Balogun,Balogun,Leon,BHA,0.0,4.4,D,40
+109,Gaetan Bong,Bong,Gaetan,BHA,0.0,4.2,D,41
+110,Lewis Dunk,Dunk,Lewis,BHA,2.9,4.8,D,42
+111,Matthew Clarke,Clarke,Matthew,BHA,0.0,4.4,D,43
+112,Dan Burn,Burn,Dan,BHA,1.6,4.5,D,475
+113,Adam Webster,Webster,Adam,BHA,2.4,4.4,D,493
+114,Tudor Baluta,Baluta,Tudor,BHA,0.0,4.0,D,536
+115,Ezequiel Schelotto,Schelotto,Ezequiel,BHA,0.1,4.0,D,546
+116,Tariq Lamptey,Lamptey,Tariq,BHA,0.0,4.0,D,586
+117,Ben Mee,Mee,Ben,BUR,3.0,5.0,D,83
+118,James Tarkowski,Tarkowski,James,BUR,3.8,5.1,D,84
+119,Matthew Lowton,Lowton,Matthew,BUR,1.2,4.2,D,85
+120,Phil Bardsley,Bardsley,Phil,BUR,1.2,4.3,D,86
+121,Charlie Taylor,Taylor,Charlie,BUR,3.5,4.3,D,87
+122,Kevin Long,Long,Kevin,BUR,0.0,4.3,D,88
+123,Ben Gibson,Gibson,Ben,BUR,0.0,3.9,D,89
+124,Erik Pieters,Pieters,Erik,BUR,1.0,4.2,D,447
+125,Anthony Driscoll-Glennon,Driscoll-Glennon,Anthony,BUR,0.0,3.9,D,572
+126,Abd-Al-Ali Morakinyo Olaposi Koiki,Koiki,Abd-Al-Ali Morakinyo Olaposi,BUR,0.0,4.0,D,596
+127,Marcos Alonso,Alonso,Marcos,CHE,2.2,6.0,D,103
+128,Antonio Rudiger,Rudiger,Antonio,CHE,0.8,6.0,D,104
+129,Cesar Azpilicueta,Azpilicueta,Cesar,CHE,3.1,5.8,D,105
+130,Emerson,Emerson,,CHE,0.3,5.4,D,107
+131,Andreas Christensen,Christensen,Andreas,CHE,0.8,4.9,D,108
+132,Davide Zappacosta,Zappacosta,Davide,CHE,0.0,4.3,D,109
+133,Kurt Zouma,Zouma,Kurt,CHE,1.3,4.7,D,459
+134,Reece James,James,Reece,CHE,1.0,5.0,D,506
+135,Fikayo Tomori,Tomori,Fikayo,CHE,3.1,4.3,D,529
+136,Addji Keaninkin Marc-Israel Guehi,Guehi,Addji Keaninkin Marc-Israel,CHE,0.0,4.0,D,545
+137,Patrick van Aanholt,van Aanholt,Patrick,CRY,4.3,5.5,D,123
+138,James Tomkins,Tomkins,James,CRY,2.0,5.0,D,124
+139,Mamadou Sakho,Sakho,Mamadou,CRY,0.1,5.0,D,125
+140,Joel Ward,Ward,Joel,CRY,1.6,4.3,D,126
+141,Scott Dann,Dann,Scott,CRY,0.6,4.3,D,127
+142,Martin Kelly,Kelly,Martin,CRY,3.6,4.2,D,128
+143,Gary Cahill,Cahill,Gary,CRY,2.7,4.4,D,503
+144,Sam Woods,Woods,Sam,CRY,0.0,4.0,D,578
+145,Tyrick Mitchell,Mitchell,Tyrick,CRY,0.0,4.0,D,579
+146,Lucas Digne,Digne,Lucas,EVE,2.7,5.8,D,141
+147,Yerry Mina,Mina,Yerry,EVE,2.5,5.3,D,142
+148,Michael Keane,Keane,Michael,EVE,2.2,5.2,D,143
+149,Seamus Coleman,Coleman,Seamus,EVE,0.6,5.3,D,144
+150,Leighton Baines,Baines,Leighton,EVE,0.2,4.9,D,145
+151,Fabian Delph,Delph,Fabian,EVE,0.4,5.3,D,205
+152,Lewis Gibson,Gibson,Lewis,EVE,0.0,4.3,D,477
+153,Mason Holgate,Holgate,Mason,EVE,2.3,4.4,D,478
+154,Djibril Sidibe,Sidibe,Djibril,EVE,1.8,5.1,D,511
+155,Cuco Martina,Cuco Martina,,EVE,0.0,4.0,D,605
+156,Pereira,Pereira,,LEI,4.4,6.3,D,159
+157,Benjamin Chilwell,Chilwell,Benjamin,LEI,4.1,5.6,D,161
+158,Jonny Evans,Evans,Jonny,LEI,3.6,5.2,D,162
+159,Christian Fuchs,Fuchs,Christian,LEI,0.4,4.2,D,163
+160,Caglar Soyuncu,Soyuncu,Caglar,LEI,3.5,5.0,D,164
+161,Wes Morgan,Morgan,Wes,LEI,0.2,4.1,D,165
+162,Ryan Bennett,Bennett,Ryan,LEI,0.4,4.8,D,404
+163,James Justin,Justin,James,LEI,0.1,4.7,D,433
+164,Filip Benkovic,Benkovic,Filip,LEI,0.0,3.9,D,597
+165,Andrew Robertson,Robertson,Andrew,LIV,5.8,7.0,D,181
+166,Trent Alexander-Arnold,Alexander-Arnold,Trent,LIV,7.4,7.8,D,182
+167,Virgil van Dijk,van Dijk,Virgil,LIV,5.6,6.6,D,183
+168,Joseph Gomez,Gomez,Joseph,LIV,4.6,5.3,D,184
+169,Joel Matip,Matip,Joel,LIV,0.7,5.2,D,185
+170,Dejan Lovren,Lovren,Dejan,LIV,0.3,5.3,D,186
+171,Neco Williams,Williams,Neco,LIV,0.0,4.0,D,575
+172,Nathaniel Phillips,Phillips,Nathaniel,LIV,0.0,4.0,D,589
+173,Ki-Jana Hoever,Hoever,Ki-Jana,LIV,0.0,4.0,D,0
+174,Aymeric Laporte,Laporte,Aymeric,MCI,0.3,6.3,D,202
+175,Kyle Walker,Walker,Kyle,MCI,3.6,5.7,D,203
+176,Benjamin Mendy,Mendy,Benjamin,MCI,3.9,5.5,D,204
+177,Oleksandr Zinchenko,Zinchenko,Oleksandr,MCI,0.6,5.2,D,206
+178,John Stones,Stones,John,MCI,1.5,5.3,D,207
+179,Nicolas Otamendi,Otamendi,Nicolas,MCI,3.8,5.0,D,208
+180,Danilo,Danilo,,MCI,0.0,5.0,D,209
+181,Angelino,Angelino,,MCI,0.0,4.7,D,197
+182,Joao Pedro Cavaco Cancelo,Cancelo,Joao Pedro Cavaco,MCI,0.5,5.2,D,518
+183,Eric Garcia,Garcia,Eric,MCI,0.2,4.5,D,544
+184,Aaron Wan-Bissaka,Wan-Bissaka,Aaron,MUN,2.4,5.3,D,122
+185,Harry Maguire,Maguire,Harry,MUN,2.3,5.3,D,160
+186,Chris Smalling,Smalling,Chris,MUN,0.0,5.2,D,223
+187,Ashley Young,Young,Ashley,MUN,0.0,5.4,D,224
+188,Victor Lindelof,Lindelof,Victor,MUN,2.4,5.3,D,225
+189,Luke Shaw,Shaw,Luke,MUN,1.9,5.4,D,226
+190,Marcos Rojo,Rojo,Marcos,MUN,0.0,4.8,D,227
+191,Eric Bailly,Bailly,Eric,MUN,0.1,4.9,D,228
+192,Dalot,Dalot,,MUN,0.1,4.9,D,229
+193,Matteo Darmian,Darmian,Matteo,MUN,0.0,4.9,D,230
+194,Phil Jones,Jones,Phil,MUN,0.0,4.8,D,231
+195,Axel Tuanzebe,Tuanzebe,Axel,MUN,0.1,4.4,D,481
+196,Brandon Williams,Williams,Brandon,MUN,0.6,4.1,D,549
+197,Matt Ritchie,Ritchie,Matt,NEW,0.5,5.3,D,251
+198,Fabian Schar,Schar,Fabian,NEW,2.4,5.0,D,252
+199,DeAndre Yedlin,Yedlin,DeAndre,NEW,0.4,4.4,D,253
+200,Federico Fernandez,Fernandez,Federico,NEW,3.2,4.5,D,254
+201,Paul Dummett,Dummett,Paul,NEW,0.5,4.4,D,255
+202,Javier Manquillo,Manquillo,Javier,NEW,0.8,4.3,D,256
+203,Florian Lejeune,Lejeune,Florian,NEW,0.4,4.4,D,257
+204,Jamaal Lascelles,Lascelles,Jamaal,NEW,2.8,4.3,D,258
+205,Ciaran Clark,Clark,Ciaran,NEW,0.6,4.3,D,259
+206,Danny Rose,Rose,Danny,NEW,0.4,5.3,D,332
+207,Jetro Willems,Willems,Jetro,NEW,1.7,4.4,D,498
+208,Emil Krafth,Krafth,Emil,NEW,0.3,4.3,D,519
+209,Kelland Watts,Watts,Kelland,NEW,0.0,3.9,D,599
+210,Liam Gibson,Gibson,Liam,NEW,0.0,4.0,D,610
+211,Timm Klose,Klose,Timm,NOR,0.0,4.3,D,272
+212,Ben Godfrey,Godfrey,Ben,NOR,0.8,4.4,D,273
+213,Maximillian Aarons,Aarons,Maximillian,NOR,1.5,4.3,D,274
+214,Christoph Zimmermann,Zimmermann,Christoph,NOR,1.3,4.4,D,275
+215,Jamal Lewis,Lewis,Jamal,NOR,1.5,4.4,D,276
+216,Grant Hanley,Hanley,Grant,NOR,0.4,4.0,D,277
+217,Sam Byram,Byram,Sam,NOR,0.0,4.4,D,454
+218,Philip Heise,Heise,Philip,NOR,0.0,3.9,D,484
+219,Akin Famewo,Famewo,Akin,NOR,0.0,4.0,D,552
+220,Enda Stevens,Stevens,Enda,SHU,4.0,5.1,D,291
+221,Kieron Freeman,Freeman,Kieron,SHU,0.0,4.2,D,292
+222,Jack O'Connell,O'Connell,Jack,SHU,3.1,4.7,D,293
+223,George Baldock,Baldock,George,SHU,4.1,5.1,D,294
+224,John Egan,Egan,John,SHU,3.0,4.6,D,295
+225,Richard Stearman,Stearman,Richard,SHU,0.0,3.9,D,296
+226,John Lundstram,Lundstram,John,SHU,4.5,4.9,D,297
+227,Chris Basham,Basham,Chris,SHU,2.8,4.5,D,423
+228,Phil Jagielka,Jagielka,Phil,SHU,0.1,4.2,D,444
+229,Jack Robinson,Jack Robinson,,SHU,0.0,4.0,D,611
+230,Panagiotis Retsos,Retsos,Panagiotis,SHU,0.0,4.5,D,625
+231,Jannik Vestergaard,Vestergaard,Jannik,SOU,2.3,4.6,D,304
+232,Ryan Bertrand,Bertrand,Ryan,SOU,1.4,4.8,D,305
+233,Yan Valery,Valery,Yan,SOU,0.2,4.6,D,306
+234,Jan Bednarek,Bednarek,Jan,SOU,1.7,4.4,D,307
+235,Jack Stephens,Stephens,Jack,SOU,2.7,4.5,D,308
+236,Maya Yoshida,Yoshida,Maya,SOU,0.0,4.2,D,310
+237,Kayne Ramsay,Ramsay,Kayne,SOU,0.0,3.9,D,311
+238,Kyle Walker-Peters,Walker-Peters,Kyle,SOU,0.1,4.4,D,337
+239,Wesley Hoedt,Hoedt,Wesley,SOU,0.0,4.2,D,485
+240,Kevin Danso,Danso,Kevin,SOU,0.2,4.2,D,532
+241,Ben Davies,Davies,Ben,TOT,0.2,5.3,D,329
+242,Jan Vertonghen,Vertonghen,Jan,TOT,2.6,5.2,D,330
+243,Toby Alderweireld,Alderweireld,Toby,TOT,2.2,5.3,D,331
+244,Davinson Sanchez,Sanchez,Davinson,TOT,1.3,5.3,D,333
+245,Kieran Trippier,Trippier,Kieran,TOT,0.0,5.5,D,334
+246,Juan Foyth,Foyth,Juan,TOT,0.1,4.8,D,335
+247,Serge Aurier,Aurier,Serge,TOT,4.0,5.0,D,336
+248,Japhet Tanganga,Tanganga,Japhet,TOT,0.3,4.1,D,583
+249,Jose Holebas,Holebas,Jose,WAT,0.3,4.6,D,353
+250,Christian Kabasele,Kabasele,Christian,WAT,3.1,4.3,D,354
+251,Adam Masina,Masina,Adam,WAT,1.1,4.3,D,355
+252,Adrian Mariappa,Mariappa,Adrian,WAT,0.4,4.2,D,356
+253,Kiko Femenia,Kiko Femenia,,WAT,1.4,4.2,D,465
+254,Craig Cathcart,Cathcart,Craig,WAT,2.5,4.3,D,358
+255,Daryl Janmaat,Janmaat,Daryl,WAT,0.4,4.0,D,359
+256,Marc Navarro,Navarro,Marc,WAT,0.0,3.9,D,360
+257,Sebastian Prodl,Prodl,Sebastian,WAT,0.0,3.9,D,361
+258,Craig Dawson,Dawson,Craig,WAT,1.4,4.8,D,439
+259,Dimitri Foulquier,Foulquier,Dimitri,WAT,0.0,4.0,D,542
+260,Aaron Cresswell,Cresswell,Aaron,WHU,2.6,4.6,D,376
+261,Angelo Ogbonna,Ogbonna,Angelo,WHU,2.5,4.5,D,377
+262,Arthur Masuaku,Masuaku,Arthur,WHU,0.4,4.2,D,378
+263,Pablo Zabaleta,Zabaleta,Pablo,WHU,0.2,4.2,D,379
+264,Ryan Fredericks,Fredericks,Ryan,WHU,1.8,4.4,D,380
+265,Issa Diop,Diop,Issa,WHU,2.1,4.3,D,381
+266,Fabian Balbuena,Balbuena,Fabian,WHU,0.8,4.3,D,382
+267,Winston Reid,Reid,Winston,WHU,0.0,4.0,D,383
+268,Ben Johnson,Johnson,Ben,WHU,0.0,3.9,D,384
+269,Jeremy Ngakia,Ngakia,Jeremy,WHU,0.1,4.0,D,593
+270,Cardoso,Cardoso,,WHU,0.0,4.0,D,594
+271,Matt Doherty,Doherty,Matt,WOL,5.0,6.2,D,401
+272,Jonny,Jonny,,WOL,2.1,5.4,D,386
+273,Conor Coady,Coady,Conor,WOL,2.5,5.0,D,403
+274,Willy Boly,Boly,Willy,WOL,1.4,4.8,D,405
+275,Vinagre,Vinagre,,WOL,0.3,4.2,D,406
+276,Romain Saiss,Saiss,Romain,WOL,2.5,4.5,D,407
+277,Max Kilman,Kilman,Max,WOL,0.1,4.0,D,408
+278,Vallejo,Vallejo,,WOL,0.0,4.6,D,473
+279,Oskar Buur,Buur,Oskar,WOL,0.0,4.0,D,587
+280,Ryan Giles,Giles,Ryan,WOL,0.0,3.9,D,607
+281,Mesut Ozil,Ozil,Mesut,ARS,1.0,7.2,M,15
+282,Henrikh Mkhitaryan,Mkhitaryan,Henrikh,ARS,0.0,6.8,M,16
+283,Granit Xhaka,Xhaka,Granit,ARS,1.3,5.1,M,18
+284,Lucas Torreira,Torreira,Lucas,ARS,0.5,4.7,M,19
+285,Mohamed Elneny,Elneny,Mohamed,ARS,0.0,4.3,M,20
+286,Matteo Guendouzi,Guendouzi,Matteo,ARS,1.2,4.3,M,21
+287,Ceballos,Ceballos,,ARS,0.6,5.2,M,469
+288,Nicolas Pepe,Pepe,Nicolas,ARS,3.3,9.2,M,488
+289,Reiss Nelson,Nelson,Reiss,ARS,0.3,5.3,M,489
+290,Joseph Willock,Willock,Joseph,ARS,0.4,4.7,M,490
+291,Bukayo Saka,Saka,Bukayo,ARS,0.8,4.6,M,541
+292,Emile Smith Rowe,Smith Rowe,Emile,ARS,0.0,4.3,M,576
+293,Conor Hourihane,Hourihane,Conor,AVL,1.1,5.7,M,28
+294,Jack Grealish,Grealish,Jack,AVL,4.2,6.6,M,29
+295,Anwar El Ghazi,El Ghazi,Anwar,AVL,2.5,5.5,M,30
+296,John McGinn,McGinn,John,AVL,2.5,5.4,M,31
+297,Andre Green,Green,Andre,AVL,0.0,4.8,M,32
+298,Birkir Bjarnason,Bjarnason,Birkir,AVL,0.0,4.5,M,33
+299,Keinan Davis,Davis,Keinan,AVL,0.2,4.3,M,34
+300,Henri Lansbury,Lansbury,Henri,AVL,0.2,4.4,M,35
+301,Jota,Jota,,AVL,0.3,5.8,M,152
+302,Daniel Drinkwater,Drinkwater,Daniel,AVL,0.1,4.4,M,120
+303,Trezeguet,Trezeguet,,AVL,1.4,5.2,M,422
+304,Douglas Luiz,Douglas Luiz,,AVL,2.0,4.4,M,470
+305,Marvelous Nakamba,Nakamba,Marvelous,AVL,0.6,4.4,M,491
+306,Indiana Vassilev,Vassilev,Indiana,AVL,0.0,4.5,M,600
+307,Ryan Fraser,Fraser,Ryan,BOU,1.9,6.8,M,75
+308,David Brooks,Brooks,David,BOU,0.0,6.2,M,76
+309,Junior Stanislas,Stanislas,Junior,BOU,0.1,5.9,M,77
+310,Jordon Ibe,Ibe,Jordon,BOU,0.0,4.6,M,78
+311,Lewis Cook,Lewis Cook,,BOU,0.5,5.0,M,79
+312,Andrew Surman,Surman,Andrew,BOU,0.1,4.7,M,80
+313,Dan Gosling,Gosling,Dan,BOU,0.8,4.9,M,81
+314,Jefferson Lerma,Lerma,Jefferson,BOU,1.2,4.8,M,82
+315,Philip Billing,Billing,Philip,BOU,1.5,5.0,M,476
+316,Danjuma,Danjuma,,BOU,0.2,5.8,M,492
+317,Harry Wilson,Harry Wilson,,BOU,3.1,5.8,M,505
+318,Christian Saydee,Saydee,Christian,BOU,0.0,4.5,M,564
+319,Gavin Kilkenny,Kilkenny,Gavin,BOU,0.0,4.5,M,565
+320,Mihai-Alexandru Dobre,Dobre,Mihai-Alexandru,BOU,0.0,4.5,M,574
+321,Pascal Gross,Gross,Pascal,BHA,2.4,6.3,M,49
+322,Alireza Jahanbakhsh,Jahanbakhsh,Alireza,BHA,0.4,5.8,M,50
+323,Izquierdo,Izquierdo,,BHA,0.0,5.4,M,51
+324,Anthony Knockaert,Knockaert,Anthony,BHA,0.0,5.4,M,52
+325,Yves Bissouma,Bissouma,Yves,BHA,0.3,5.0,M,53
+326,Davy Propper,Propper,Davy,BHA,1.6,4.8,M,54
+327,Solomon March,March,Solomon,BHA,0.5,4.6,M,55
+328,Beram Kayal,Kayal,Beram,BHA,0.0,4.3,M,56
+329,Dale Stephens,Stephens,Dale,BHA,1.2,4.4,M,57
+330,Leandro Trossard,Trossard,Leandro,BHA,1.8,5.8,M,421
+331,Aaron Mooy,Mooy,Aaron,BHA,2.2,4.8,M,516
+332,Steven Alzate,Alzate,Steven,BHA,0.6,4.5,M,537
+333,Alexis Mac Allister,Mac Allister,Alexis,BHA,0.0,5.5,M,0
+334,Johann Berg Gudmundsson,Gudmundsson,Johann Berg,BUR,0.2,5.9,M,96
+335,Dwight McNeil,McNeil,Dwight,BUR,3.1,6.0,M,97
+336,Robbie Brady,Brady,Robbie,BUR,0.5,5.5,M,98
+337,Steven Defour,Defour,Steven,BUR,0.0,5.5,M,99
+338,Jeff Hendrick,Hendrick,Jeff,BUR,2.4,5.4,M,100
+339,Ashley Westwood,Westwood,Ashley,BUR,3.3,5.4,M,101
+340,Jack Cork,Cork,Jack,BUR,1.7,4.9,M,102
+341,Aaron Lennon,Lennon,Aaron,BUR,0.2,4.6,M,430
+342,Mace Goodridge,Goodridge,Mace,BUR,0.0,4.5,M,571
+343,Josh Brownhill,Brownhill,Josh,BUR,0.0,4.9,M,620
+344,Willian,Willian,,CHE,2.9,7.0,M,113
+345,Ledesma Pedro,Pedro,Ledesma,CHE,0.3,6.8,M,577
+346,Ruben Loftus-Cheek,Loftus-Cheek,Ruben,CHE,0.0,6.3,M,115
+347,Callum Hudson-Odoi,Hudson-Odoi,Callum,CHE,0.5,5.3,M,116
+348,Ross Barkley,Barkley,Ross,CHE,0.4,5.6,M,117
+349,Jorginho,Jorginho,,CHE,2.0,4.9,M,261
+350,N'Golo Kante,Kante,N'Golo,CHE,0.9,5.0,M,119
+351,Ethan Ampadu,Ampadu,Ethan,CHE,0.0,4.4,M,121
+352,Christian Pulisic,Pulisic,Christian,CHE,1.0,6.9,M,431
+353,Mateo Kovacic,Kovacic,Mateo,CHE,1.4,5.3,M,432
+354,Kenedy,Kenedy,,CHE,0.0,5.2,M,462
+355,Mason Mount,Mount,Mason,CHE,3.4,6.1,M,463
+356,Billy Gilmour,Gilmour,Billy,CHE,0.0,4.5,M,533
+357,Wilfried Zaha,Zaha,Wilfried,CRY,2.9,6.8,M,133
+358,Luka Milivojevic,Milivojevic,Luka,CRY,2.2,6.7,M,134
+359,Andros Townsend,Townsend,Andros,CRY,0.6,5.6,M,135
+360,Max Meyer,Meyer,Max,CRY,0.3,5.2,M,136
+361,Jeffrey Schlupp,Schlupp,Jeffrey,CRY,0.8,5.4,M,137
+362,James McArthur,McArthur,James,CRY,2.0,5.2,M,138
+363,Cheikhou Kouyate,Kouyate,Cheikhou,CRY,2.1,4.9,M,139
+364,Luke Dreher,Dreher,Luke,CRY,0.0,4.3,M,140
+365,James McCarthy,McCarthy,James,CRY,0.4,4.3,M,157
+366,Victor Camarasa,Camarasa,Victor,CRY,0.0,4.5,M,510
+367,Jairo Riedewald,Riedewald,Jairo,CRY,0.3,4.5,M,539
+368,Brandon Pierrick,Pierrick,Brandon,CRY,0.0,4.5,M,580
+369,Nya Kirby,Kirby,Nya,CRY,0.0,4.5,M,588
+370,Giovanni McGregor,McGregor,Giovanni,CRY,0.0,4.5,M,608
+371,Alex Iwobi,Iwobi,Alex,EVE,1.3,5.6,M,17
+372,Richarlison,Richarlison,,EVE,4.9,8.3,M,150
+373,Gylfi Sigurdsson,Sigurdsson,Gylfi,EVE,2.0,7.3,M,151
+374,Bernard,Bernard,,EVE,1.4,6.4,M,218
+375,Theo Walcott,Walcott,Theo,EVE,1.0,6.2,M,153
+376,Tom Davies,Davies,Tom,EVE,1.2,5.3,M,154
+377,Ademola Lookman,Lookman,Ademola,EVE,0.0,5.0,M,155
+378,Idrissa Gueye,Gueye,Idrissa,EVE,0.0,5.0,M,156
+379,Morgan Schneiderlin,Schneiderlin,Morgan,EVE,0.2,4.4,M,158
+380,Andre Gomes,Andre Gomes,,EVE,0.3,5.2,M,114
+381,Jean-Philippe Gbamin,Gbamin,Jean-Philippe,EVE,0.1,4.8,M,497
+382,Beni Baningime,Baningime,Beni,EVE,0.0,4.5,M,557
+383,James Maddison,Maddison,James,LEI,4.1,7.5,M,171
+384,Harvey Barnes,Barnes,Harvey,LEI,3.2,6.1,M,172
+385,Rachid Ghezzal,Ghezzal,Rachid,LEI,0.0,5.2,M,173
+386,Marc Albrighton,Albrighton,Marc,LEI,0.3,5.1,M,174
+387,Demarai Gray,Gray,Demarai,LEI,0.4,5.1,M,175
+388,Wilfred Ndidi,Ndidi,Wilfred,LEI,2.2,5.0,M,176
+389,Matty James,James,Matty,LEI,0.0,4.3,M,177
+390,Daniel Amartey,Amartey,Daniel,LEI,0.0,4.3,M,178
+391,Nampalys Mendy,Mendy,Nampalys,LEI,0.1,4.3,M,179
+392,Hamza Choudhury,Choudhury,Hamza,LEI,0.5,4.3,M,180
+393,Ayoze Perez,Perez,Ayoze,LEI,3.6,6.2,M,265
+394,Youri Tielemans,Tielemans,Youri,LEI,3.0,6.2,M,448
+395,Andy King,King,Andy,LEI,0.0,4.3,M,480
+396,Dennis Praet,Praet,Dennis,LEI,0.9,5.3,M,517
+397,Mohamed Salah,Salah,Mohamed,LIV,9.0,12.8,M,191
+398,Sadio Mane,Mane,Sadio,LIV,8.0,12.4,M,192
+399,Chamberlain,Chamberlain,,LIV,1.3,6.2,M,193
+400,Xherdan Shaqiri,Shaqiri,Xherdan,LIV,0.1,6.3,M,194
+401,Adam Lallana,Lallana,Adam,LIV,0.5,5.7,M,195
+402,Naby Keita,Keita,Naby,LIV,0.4,5.8,M,196
+403,Fabinho,Fabinho,,LIV,0.9,5.4,M,387
+404,Jordan Henderson,Henderson,Jordan,LIV,3.5,5.4,M,198
+405,Georginio Wijnaldum,Wijnaldum,Georginio,LIV,2.7,5.4,M,199
+406,James Milner,Milner,James,LIV,0.9,5.3,M,200
+407,Rafael Camacho,Camacho,Rafael,LIV,0.0,4.5,M,201
+408,Harvey Elliott,Elliott,Harvey,LIV,0.0,4.5,M,550
+409,Curtis Jones,Jones,Curtis,LIV,0.0,4.5,M,569
+410,Takumi Minamino,Minamino,Takumi,LIV,0.1,6.2,M,590
+411,Raheem Sterling,Sterling,Raheem,MCI,5.8,11.7,M,214
+412,Kevin De Bruyne,De Bruyne,Kevin,MCI,7.2,10.7,M,215
+413,Leroy Sane,Sane,Leroy,MCI,0.0,9.3,M,216
+414,Riyad Mahrez,Mahrez,Riyad,MCI,4.9,8.4,M,217
+415,Bernardo Silva,Bernardo Silva,,MCI,2.9,7.8,M,211
+416,David Silva,David Silva,,MCI,3.2,7.3,M,219
+417,Phil Foden,Foden,Phil,MCI,0.3,5.1,M,220
+418,Fernandinho,Fernandinho,,MCI,1.4,5.2,M,618
+419,Ilkay Gundogan,Gundogan,Ilkay,MCI,1.3,5.2,M,222
+420,Rodrigo,Rodrigo,,MCI,2.6,5.4,M,443
+421,Paul Pogba,Pogba,Paul,MUN,0.2,8.3,M,238
+422,Anthony Martial,Martial,Anthony,MUN,4.8,8.0,M,239
+423,Alexis Sanchez,Sanchez,Alexis,MUN,0.0,6.8,M,240
+424,Jesse Lingard,Lingard,Jesse,MUN,0.4,6.3,M,241
+425,Juan Mata,Mata,Juan,MUN,0.6,6.2,M,242
+426,Daniel James,James,Daniel,MUN,2.2,5.8,M,243
+427,Fred,Fred,,MUN,1.0,5.3,M,244
+428,Angel Gomes,Gomes,Angel,MUN,0.0,4.8,M,245
+429,Andreas Pereira,Pereira,Andreas,MUN,1.2,4.9,M,246
+430,Nemanja Matic,Matic,Nemanja,MUN,0.5,4.8,M,247
+431,Scott McTominay,McTominay,Scott,MUN,2.2,4.9,M,248
+432,Tahith Chong,Chong,Tahith,MUN,0.1,4.3,M,249
+433,James Garner,Garner,James,MUN,0.0,4.3,M,250
+434,Bruno Fernandes,Fernandes,Bruno,MUN,0.6,8.3,M,221
+435,Miguel Almiron,Almiron,Miguel,NEW,2.0,5.8,M,266
+436,Christian Atsu,Atsu,Christian,NEW,0.6,5.3,M,267
+437,Ki Sung-yueng,Ki Sung-yueng,,NEW,0.0,4.7,M,623
+438,Jonjo Shelvey,Shelvey,Jonjo,NEW,3.6,4.9,M,269
+439,Sean Longstaff,Longstaff,Sean,NEW,1.0,5.0,M,270
+440,Isaac Hayden,Hayden,Isaac,NEW,1.7,4.3,M,271
+441,Jack Colback,Colback,Jack,NEW,0.0,4.3,M,482
+442,Jacob Murphy,Murphy,Jacob,NEW,0.0,4.8,M,483
+443,Rolando Aarons,Aarons,Rolando,NEW,0.0,4.8,M,499
+444,Allan Saint-Maximin,Saint-Maximin,Allan,NEW,0.8,5.4,M,500
+445,Matthew Longstaff,Matthew Longstaff,,NEW,0.4,4.5,M,540
+446,Thomas Allan,Allan,Thomas,NEW,0.0,4.5,M,598
+447,Nabil Bentaleb,Bentaleb,Nabil,NEW,0.1,5.0,M,612
+448,Valentino Lazaro,Lazaro,Valentino,NEW,0.0,5.4,M,614
+449,Mario Vrancic,Vrancic,Mario,NOR,0.3,6.2,M,282
+450,Emiliano Buendia,Buendia,Emiliano,NOR,1.9,6.0,M,283
+451,Onel Hernandez,Hernandez,Onel,NOR,0.2,5.3,M,284
+452,Marco Stiepermann,Stiepermann,Marco,NOR,0.4,5.1,M,285
+453,Kenny McLean,McLean,Kenny,NOR,1.4,4.8,M,286
+454,Todd Cantwell,Cantwell,Todd,NOR,2.9,4.8,M,287
+455,Moritz Leitner,Leitner,Moritz,NOR,0.3,4.3,M,288
+456,Alexander Tettey,Tettey,Alexander,NOR,1.7,4.5,M,289
+457,Tom Trybull,Trybull,Tom,NOR,0.4,4.4,M,290
+458,Patrick Roberts,Roberts,Patrick,NOR,0.0,5.1,M,435
+459,Ibrahim Amadou,Amadou,Ibrahim,NOR,0.0,4.5,M,507
+460,Ondrej Duda,Duda,Ondrej,NOR,0.3,4.8,M,601
+461,Lukas Rupp,Rupp,Lukas,NOR,0.2,4.5,M,602
+462,Mark Duffy,Duffy,Mark,SHU,0.0,5.2,M,300
+463,John Fleck,Fleck,John,SHU,3.4,5.0,M,301
+464,Oliver Norwood,Norwood,Oliver,SHU,2.0,4.9,M,302
+465,Luke Freeman,Freeman,Luke,SHU,0.6,5.1,M,441
+466,Callum Robinson,Callum Robinson,,SHU,0.0,5.0,M,453
+467,Ravel Morrison,Morrison,Ravel,SHU,0.0,4.6,M,456
+468,Ben Osborn,Osborn,Ben,SHU,0.1,4.7,M,472
+469,Muhamed Besic,Besic,Muhamed,SHU,0.2,4.4,M,522
+470,Jack Rodwell,Rodwell,Jack,SHU,0.0,4.5,M,591
+471,Sander Berge,Berge,Sander,SHU,0.1,4.9,M,621
+472,Nathan Redmond,Redmond,Nathan,SOU,1.8,6.2,M,320
+473,James Ward-Prowse,Ward-Prowse,James,SOU,2.6,5.7,M,321
+474,Mohamed Elyounoussi,Elyounoussi,Mohamed,SOU,0.0,5.2,M,322
+475,Stuart Armstrong,Armstrong,Stuart,SOU,1.1,5.2,M,323
+476,Mario Lemina,Lemina,Mario,SOU,0.0,4.7,M,324
+477,Pierre-Emile Hojbjerg,Hojbjerg,Pierre-Emile,SOU,1.7,4.8,M,325
+478,Tyreke Johnson,Johnson,Tyreke,SOU,0.0,4.4,M,326
+479,Callum Slattery,Slattery,Callum,SOU,0.0,4.4,M,327
+480,Oriol Romeu,Oriol Romeu,,SOU,0.9,4.3,M,328
+481,Moussa Djenepo,Djenepo,Moussa,SOU,0.8,5.2,M,438
+482,Sofiane Boufal,Boufal,Sofiane,SOU,0.6,5.5,M,508
+483,William Smallbone,Smallbone,William,SOU,0.1,4.5,M,584
+484,Heung-Min Son,Son,Heung-Min,TOT,3.4,9.8,M,342
+485,Christian Eriksen,Eriksen,Christian,TOT,0.0,8.6,M,343
+486,Bamidele Alli,Alli,Bamidele,TOT,6.0,8.3,M,344
+487,Lucas Moura,Lucas Moura,,TOT,2.6,7.1,M,118
+488,Erik Lamela,Lamela,Erik,TOT,1.0,5.7,M,346
+489,Harry Winks,Winks,Harry,TOT,0.7,5.2,M,347
+490,Victor Wanyama,Wanyama,Victor,TOT,0.0,4.7,M,348
+491,Moussa Sissoko,Sissoko,Moussa,TOT,1.2,4.8,M,349
+492,Eric Dier,Dier,Eric,TOT,0.4,4.8,M,350
+493,Luke Amos,Amos,Luke,TOT,0.0,4.4,M,351
+494,Oliver Skipp,Skipp,Oliver,TOT,0.1,4.3,M,352
+495,Tanguy Ndombele,Ndombele,Tanguy,TOT,0.9,5.8,M,442
+496,Giovani Lo Celso,Lo Celso,Giovani,TOT,0.4,7.3,M,523
+497,Ryan Sessegnon,Sessegnon,Ryan,TOT,0.2,5.4,M,524
+498,Georges-Kevin Nkoudou,Nkoudou,Georges-Kevin,TOT,0.0,5.0,M,527
+499,Gedson Fernandes,Fernandes,Gedson,TOT,0.1,4.8,M,345
+500,Steven Bergwijn,Bergwijn,Steven,TOT,0.4,7.5,M,615
+501,Abdoulaye Doucoure,Doucoure,Abdoulaye,WAT,3.0,5.6,M,368
+502,Roberto Pereyra,Pereyra,Roberto,WAT,1.5,5.6,M,369
+503,Will Hughes,Hughes,Will,WAT,1.8,5.3,M,370
+504,Tom Cleverley,Cleverley,Tom,WAT,0.4,4.8,M,371
+505,Ken Sema,Sema,Ken,WAT,0.0,4.7,M,372
+506,Etienne Capoue,Capoue,Etienne,WAT,2.1,4.8,M,373
+507,Nathaniel Chalobah,Chalobah,Nathaniel,WAT,0.5,4.4,M,374
+508,Domingos Quina,Quina,Domingos,WAT,0.1,4.4,M,375
+509,Ismaila Sarr,Sarr,Ismaila,WAT,2.1,6.3,M,525
+510,Ayotomiwa Dele-Bashiru,Dele-Bashiru,Ayotomiwa,WAT,0.0,4.5,M,563
+511,Ignacio Pussetto,Pussetto,Ignacio,WAT,0.1,4.7,M,604
+512,Michail Antonio,Antonio,Michail,WHU,0.9,6.9,M,389
+513,Felipe Anderson,Felipe Anderson,,WHU,2.4,6.6,M,390
+514,Manuel Lanzini,Lanzini,Manuel,WHU,1.0,6.2,M,391
+515,Andriy Yarmolenko,Yarmolenko,Andriy,WHU,0.6,5.2,M,392
+516,Robert Snodgrass,Snodgrass,Robert,WHU,3.5,5.3,M,393
+517,Jack Wilshere,Wilshere,Jack,WHU,0.0,4.7,M,394
+518,Declan Rice,Rice,Declan,WHU,1.7,4.7,M,395
+519,Mark Noble,Noble,Mark,WHU,2.9,5.0,M,396
+520,Carlos Sanchez,Carlos Sanchez,,WHU,0.1,4.3,M,397
+521,Grady Diangana,Diangana,Grady,WHU,0.0,4.3,M,398
+522,Pablo Fornals,Fornals,Pablo,WHU,1.9,6.0,M,399
+523,Pedro Obiang,Obiang,Pedro,WHU,0.0,4.5,M,400
+524,Nathan Holland,Holland,Nathan,WHU,0.0,4.4,M,568
+525,Bernardo Costa Da Rosa,Rosa,Bernardo Costa Da,WHU,0.0,4.5,M,595
+526,Tomas Soucek,Soucek,Tomas,WHU,0.1,4.9,M,616
+527,Jarrod Bowen,Bowen,Jarrod,WHU,0.2,6.5,M,626
+528,Neves,Neves,,WOL,1.9,5.2,M,414
+529,Moutinho,Moutinho,,WOL,3.0,5.4,M,415
+530,Morgan Gibbs-White,Gibbs-White,Morgan,WOL,0.1,4.7,M,416
+531,Adama Traore,Traore,Adama,WOL,3.7,5.8,M,417
+532,Helder Costa,Costa,Helder,WOL,0.0,4.9,M,418
+533,Ivan Cavaleiro,Cavaleiro,Ivan,WOL,0.0,4.9,M,419
+534,Leander Dendoncker,Dendoncker,Leander,WOL,1.9,4.4,M,420
+535,Neto,Neto,,WOL,0.9,5.0,M,528
+536,Taylor Perry,Perry,Taylor,WOL,0.0,4.5,M,560
+537,Owen Otasowie,Otasowie,Owen,WOL,0.0,4.5,M,566
+538,Luke Cundle,Cundle,Luke,WOL,0.0,4.5,M,567
+539,Jordao,Jordao,,WOL,0.0,4.5,M,609
+540,Podence,Podence,,WOL,0.1,5.2,M,619
+541,Pierre-Emerick Aubameyang,Aubameyang,Pierre-Emerick,ARS,7.7,11.1,F,11
+542,Alexandre Lacazette,Lacazette,Alexandre,ARS,4.0,9.3,F,12
+543,Edward Nketiah,Nketiah,Edward,ARS,0.2,4.3,F,13
+544,Martinelli,Martinelli,,ARS,0.9,4.5,F,504
+545,Tyreece John-Jules,John-Jules,Tyreece,ARS,0.0,4.5,F,585
+546,Jonathan Kodjia,Kodjia,Jonathan,AVL,0.0,5.4,F,26
+547,Wesley,Wesley,,AVL,1.6,5.5,F,428
+548,Mbwana Samatta,Samatta,Mbwana,AVL,3.9,5.9,F,613
+549,Baston,Baston,,AVL,0.0,5.5,F,36
+550,Callum Wilson,Callum Wilson,,BOU,3.2,7.4,F,67
+551,Joshua King,King,Joshua,BOU,3.7,6.1,F,68
+552,Dominic Solanke,Solanke,Dominic,BOU,0.9,5.2,F,69
+553,Sam Surridge,Surridge,Sam,BOU,0.0,4.3,F,71
+554,Glenn Murray,Murray,Glenn,BHA,0.5,5.4,F,44
+555,Jurgen Locadia,Locadia,Jurgen,BHA,0.0,5.2,F,45
+556,Florin Andone,Andone,Florin,BHA,0.0,4.7,F,46
+557,Neal Maupay,Maupay,Neal,BHA,3.6,5.8,F,502
+558,Aaron Connolly,Connolly,Aaron,BHA,1.9,4.3,F,534
+559,Ashley Barnes,Barnes,Ashley,BUR,1.6,6.1,F,90
+560,Chris Wood,Wood,Chris,BUR,4.4,6.1,F,91
+561,Matej Vydra,Vydra,Matej,BUR,0.4,5.3,F,92
+562,Jay Rodriguez,Rodriguez,Jay,BUR,1.7,5.7,F,451
+563,Olivier Giroud,Giroud,Olivier,CHE,2.3,6.5,F,110
+564,Tammy Abraham,Abraham,Tammy,CHE,3.1,7.5,F,460
+565,Michy Batshuayi,Batshuayi,Michy,CHE,0.5,6.6,F,461
+566,Christian Benteke,Benteke,Christian,CRY,1.2,5.7,F,129
+567,Connor Wickham,Wickham,Connor,CRY,0.0,4.4,F,130
+568,Cenk Tosun,Tosun,Cenk,CRY,0.2,5.7,F,146
+569,Jordan Ayew,Ayew,Jordan,CRY,4.1,5.1,F,468
+570,James Daly,Daly,James,CRY,0.0,4.5,F,581
+571,Dominic Calvert-Lewin,Calvert-Lewin,Dominic,EVE,4.2,6.4,F,147
+572,Moise Kean,Kean,Moise,EVE,1.3,6.4,F,496
+573,Anthony Gordon,Gordon,Anthony,EVE,0.0,4.5,F,561
+574,Oumar Niasse,Niasse,Oumar,EVE,0.1,4.5,F,570
+575,Jamie Vardy,Vardy,Jamie,LEI,7.1,9.7,F,166
+576,Kelechi Iheanacho,Iheanacho,Kelechi,LEI,3.8,5.7,F,167
+577,Roberto Firmino,Firmino,Roberto,LIV,5.4,9.6,F,187
+578,Divock Origi,Origi,Divock,LIV,2.1,5.1,F,188
+579,Rhian Brewster,Brewster,Rhian,LIV,0.0,4.2,F,464
+580,Sergio Aguero,Aguero,Sergio,MCI,7.7,11.9,F,210
+581,Gabriel Jesus,Jesus,Gabriel,MCI,4.9,9.5,F,440
+582,Romelu Lukaku,Lukaku,Romelu,MUN,0.0,8.5,F,232
+583,Marcus Rashford,Rashford,Marcus,MUN,0.6,8.9,F,233
+584,Mason Greenwood,Greenwood,Mason,MUN,1.8,4.3,F,234
+585,Odion Ighalo,Ighalo,Odion,MUN,0.1,6.5,F,624
+586,Yoshinori Muto,Muto,Yoshinori,NEW,0.1,5.1,F,260
+587,Joselu,Joselu,,NEW,0.0,5.0,F,268
+588,Joelinton,Joelinton,,NEW,1.6,5.5,F,466
+589,Andy Carroll,Carroll,Andy,NEW,0.7,5.4,F,520
+590,Dwight Gayle,Gayle,Dwight,NEW,0.2,5.0,F,554
+591,Teemu Pukki,Pukki,Teemu,NOR,4.8,6.5,F,278
+592,Dennis Srbeny,Srbeny,Dennis,NOR,0.0,5.2,F,279
+593,Josip Drmic,Drmic,Josip,NOR,0.7,5.3,F,434
+594,Adam Idah,Idah,Adam,NOR,0.1,4.4,F,538
+595,Lys Mousset,Mousset,Lys,SHU,2.2,4.6,F,70
+596,Billy Sharp,Sharp,Billy,SHU,0.6,5.6,F,298
+597,David McGoldrick,McGoldrick,David,SHU,1.5,5.4,F,303
+598,Oliver McBurnie,McBurnie,Oliver,SHU,1.7,5.7,F,501
+599,Leon Clarke,Clarke,Leon,SHU,0.0,4.4,F,547
+600,Richairo Zivkovic,Zivkovic,Richairo,SHU,0.0,4.8,F,622
+601,Charlie Austin,Austin,Charlie,SOU,0.0,6.0,F,312
+602,Danny Ings,Ings,Danny,SOU,5.1,7.2,F,313
+603,Michael Obafemi,Obafemi,Michael,SOU,0.4,4.9,F,314
+604,Shane Long,Long,Shane,SOU,2.3,4.6,F,315
+605,Sam Gallagher,Gallagher,Sam,SOU,0.0,4.5,F,316
+606,Che Adams,Adams,Che,SOU,0.7,5.3,F,437
+607,Daniel N'Lundulu,N'Lundulu,Daniel,SOU,0.0,4.5,F,535
+608,Harry Kane,Kane,Harry,TOT,4.2,10.8,F,338
+609,Vincent Janssen,Janssen,Vincent,TOT,0.0,4.5,F,339
+610,Troy Parrott,Parrott,Troy,TOT,0.6,4.3,F,509
+611,Troy Deeney,Deeney,Troy,WAT,4.4,6.2,F,362
+612,Gerard Deulofeu,Deulofeu,Gerard,WAT,1.6,6.1,F,363
+613,Andre Gray,Gray,Andre,WAT,0.7,5.5,F,364
+614,Success,Success,,WAT,0.1,4.7,F,365
+615,Danny Welbeck,Welbeck,Danny,WAT,0.2,5.8,F,512
+616,Joao Pedro,Joao Pedro,,WAT,0.0,4.9,F,592
+617,Marko Arnautovic,Arnautovic,Marko,WHU,0.0,7.0,F,385
+618,Chicharito,Chicharito,,WHU,0.0,6.0,F,357
+619,Xande Silva,Xande Silva,,WHU,0.0,4.3,F,402
+620,Sebastien Haller,Haller,Sebastien,WHU,3.9,6.8,F,457
+621,Albian Ajeti,Ajeti,Albian,WHU,0.5,5.7,F,514
+622,Raul Jimenez,Jimenez,Raul,WOL,6.4,8.0,F,409
+623,Diogo Jota,Jota,Diogo,WOL,3.8,6.3,F,410
+624,Patrick Cutrone,Cutrone,Patrick,WOL,0.0,5.5,F,487
+625,Bernard Ashley-Seal,Ashley-Seal,Bernard,WOL,0.0,4.5,F,559
